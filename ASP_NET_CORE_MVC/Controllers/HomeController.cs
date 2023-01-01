@@ -1,5 +1,7 @@
 ﻿using ASP_NET_CORE_MVC.Models;
 using Microsoft.AspNetCore.Mvc;
+using MVC.Models;
+using MVC.Services;
 using System.Diagnostics;
 using System.Text.Json;
 using static System.Net.WebRequestMethods;
@@ -9,20 +11,17 @@ namespace ASP_NET_CORE_MVC.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
+        private readonly IPostService _postService;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(ILogger<HomeController> logger, IPostService postService)
         {
             _logger = logger;
+            _postService = postService;
         }
 
         public async Task<IActionResult> Index()
         {
-            List<Post> posts = new List<Post>();
-            string url = "https://jsonplaceholder.typicode.com/posts";
-            var cliente = new HttpClient(); //clase cliente que permite enviar/consultar una ApiRest, funciona por el protocolo http
-            var response = await cliente.GetAsync(url);//devuelve la tarea de operación asincrona, representando el objeto
-            var body = await response.Content.ReadAsStringAsync();// devuelve el mensaje de la operación asincrona
-            posts = JsonSerializer.Deserialize<List<Post>>(body);// devuelve un valor Json
+            List<Post> posts = await _postService.Get();            
 
             return View("Index", posts);
         }

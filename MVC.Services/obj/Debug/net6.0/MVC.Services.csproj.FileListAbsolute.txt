@@ -1,0 +1,15 @@
+C:\Users\oguer\source\repos\AplicacionesNet\MVC.Services\bin\Debug\net6.0\MVC.Services.deps.json
+C:\Users\oguer\source\repos\AplicacionesNet\MVC.Services\bin\Debug\net6.0\MVC.Services.dll
+C:\Users\oguer\source\repos\AplicacionesNet\MVC.Services\bin\Debug\net6.0\MVC.Services.pdb
+C:\Users\oguer\source\repos\AplicacionesNet\MVC.Services\bin\Debug\net6.0\MVC.Models.dll
+C:\Users\oguer\source\repos\AplicacionesNet\MVC.Services\bin\Debug\net6.0\MVC.Models.pdb
+C:\Users\oguer\source\repos\AplicacionesNet\MVC.Services\obj\Debug\net6.0\MVC.Services.csproj.AssemblyReference.cache
+C:\Users\oguer\source\repos\AplicacionesNet\MVC.Services\obj\Debug\net6.0\MVC.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oguer\source\repos\AplicacionesNet\MVC.Services\obj\Debug\net6.0\MVC.Services.AssemblyInfoInputs.cache
+C:\Users\oguer\source\repos\AplicacionesNet\MVC.Services\obj\Debug\net6.0\MVC.Services.AssemblyInfo.cs
+C:\Users\oguer\source\repos\AplicacionesNet\MVC.Services\obj\Debug\net6.0\MVC.Services.csproj.CoreCompileInputs.cache
+C:\Users\oguer\source\repos\AplicacionesNet\MVC.Services\obj\Debug\net6.0\MVC.Services.csproj.CopyComplete
+C:\Users\oguer\source\repos\AplicacionesNet\MVC.Services\obj\Debug\net6.0\MVC.Services.dll
+C:\Users\oguer\source\repos\AplicacionesNet\MVC.Services\obj\Debug\net6.0\refint\MVC.Services.dll
+C:\Users\oguer\source\repos\AplicacionesNet\MVC.Services\obj\Debug\net6.0\MVC.Services.pdb
+C:\Users\oguer\source\repos\AplicacionesNet\MVC.Services\obj\Debug\net6.0\ref\MVC.Services.dll

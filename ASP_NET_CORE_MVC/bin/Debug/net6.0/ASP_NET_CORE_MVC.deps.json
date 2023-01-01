@@ -7,14 +7,41 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "ASP_NET_CORE_MVC/1.0.0": {
+        "dependencies": {
+          "MVC.Models": "1.0.0",
+          "MVC.Services": "1.0.0"
+        },
         "runtime": {
           "ASP_NET_CORE_MVC.dll": {}
+        }
+      },
+      "MVC.Models/1.0.0": {
+        "runtime": {
+          "MVC.Models.dll": {}
+        }
+      },
+      "MVC.Services/1.0.0": {
+        "dependencies": {
+          "MVC.Models": "1.0.0"
+        },
+        "runtime": {
+          "MVC.Services.dll": {}
         }
       }
     }
   },
   "libraries": {
     "ASP_NET_CORE_MVC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MVC.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MVC.Services/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

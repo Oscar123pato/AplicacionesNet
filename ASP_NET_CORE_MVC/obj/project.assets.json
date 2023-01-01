@@ -1,11 +1,49 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "MVC.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/MVC.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MVC.Models.dll": {}
+        }
+      },
+      "MVC.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "MVC.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MVC.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MVC.Services.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "MVC.Models/1.0.0": {
+      "type": "project",
+      "path": "../MVC.Models/MVC.Models.csproj",
+      "msbuildProject": "../MVC.Models/MVC.Models.csproj"
+    },
+    "MVC.Services/1.0.0": {
+      "type": "project",
+      "path": "../MVC.Services/MVC.Services.csproj",
+      "msbuildProject": "../MVC.Services/MVC.Services.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "MVC.Models >= 1.0.0",
+      "MVC.Services >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\oguer\\.nuget\\packages\\": {},
@@ -39,7 +77,14 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\oguer\\source\\repos\\AplicacionesNet\\MVC.Models\\MVC.Models.csproj": {
+              "projectPath": "C:\\Users\\oguer\\source\\repos\\AplicacionesNet\\MVC.Models\\MVC.Models.csproj"
+            },
+            "C:\\Users\\oguer\\source\\repos\\AplicacionesNet\\MVC.Services\\MVC.Services.csproj": {
+              "projectPath": "C:\\Users\\oguer\\source\\repos\\AplicacionesNet\\MVC.Services\\MVC.Services.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

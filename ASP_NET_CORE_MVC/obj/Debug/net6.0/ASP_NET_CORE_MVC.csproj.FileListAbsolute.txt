@@ -6,6 +6,8 @@ C:\Users\oguer\source\repos\AplicacionesNet\ASP_NET_CORE_MVC\bin\Debug\net6.0\AS
 C:\Users\oguer\source\repos\AplicacionesNet\ASP_NET_CORE_MVC\bin\Debug\net6.0\ASP_NET_CORE_MVC.runtimeconfig.json
 C:\Users\oguer\source\repos\AplicacionesNet\ASP_NET_CORE_MVC\bin\Debug\net6.0\ASP_NET_CORE_MVC.dll
 C:\Users\oguer\source\repos\AplicacionesNet\ASP_NET_CORE_MVC\bin\Debug\net6.0\ASP_NET_CORE_MVC.pdb
+C:\Users\oguer\source\repos\AplicacionesNet\ASP_NET_CORE_MVC\bin\Debug\net6.0\MVC.Models.dll
+C:\Users\oguer\source\repos\AplicacionesNet\ASP_NET_CORE_MVC\bin\Debug\net6.0\MVC.Models.pdb
 C:\Users\oguer\source\repos\AplicacionesNet\ASP_NET_CORE_MVC\obj\Debug\net6.0\ASP_NET_CORE_MVC.csproj.AssemblyReference.cache
 C:\Users\oguer\source\repos\AplicacionesNet\ASP_NET_CORE_MVC\obj\Debug\net6.0\ASP_NET_CORE_MVC.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\oguer\source\repos\AplicacionesNet\ASP_NET_CORE_MVC\obj\Debug\net6.0\ASP_NET_CORE_MVC.AssemblyInfoInputs.cache
@@ -19,8 +21,11 @@ C:\Users\oguer\source\repos\AplicacionesNet\ASP_NET_CORE_MVC\obj\Debug\net6.0\st
 C:\Users\oguer\source\repos\AplicacionesNet\ASP_NET_CORE_MVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\oguer\source\repos\AplicacionesNet\ASP_NET_CORE_MVC\obj\Debug\net6.0\scopedcss\bundle\ASP_NET_CORE_MVC.styles.css
 C:\Users\oguer\source\repos\AplicacionesNet\ASP_NET_CORE_MVC\obj\Debug\net6.0\scopedcss\projectbundle\ASP_NET_CORE_MVC.bundle.scp.css
+C:\Users\oguer\source\repos\AplicacionesNet\ASP_NET_CORE_MVC\obj\Debug\net6.0\ASP_NET_CORE_MVC.csproj.CopyComplete
 C:\Users\oguer\source\repos\AplicacionesNet\ASP_NET_CORE_MVC\obj\Debug\net6.0\ASP_NET_CORE_MVC.dll
 C:\Users\oguer\source\repos\AplicacionesNet\ASP_NET_CORE_MVC\obj\Debug\net6.0\refint\ASP_NET_CORE_MVC.dll
 C:\Users\oguer\source\repos\AplicacionesNet\ASP_NET_CORE_MVC\obj\Debug\net6.0\ASP_NET_CORE_MVC.pdb
 C:\Users\oguer\source\repos\AplicacionesNet\ASP_NET_CORE_MVC\obj\Debug\net6.0\ASP_NET_CORE_MVC.genruntimeconfig.cache
 C:\Users\oguer\source\repos\AplicacionesNet\ASP_NET_CORE_MVC\obj\Debug\net6.0\ref\ASP_NET_CORE_MVC.dll
+C:\Users\oguer\source\repos\AplicacionesNet\ASP_NET_CORE_MVC\bin\Debug\net6.0\MVC.Services.dll
+C:\Users\oguer\source\repos\AplicacionesNet\ASP_NET_CORE_MVC\bin\Debug\net6.0\MVC.Services.pdb

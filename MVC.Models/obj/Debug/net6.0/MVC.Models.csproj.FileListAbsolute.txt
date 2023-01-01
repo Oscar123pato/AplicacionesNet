@@ -1,0 +1,12 @@
+C:\Users\oguer\source\repos\AplicacionesNet\MVC.Models\bin\Debug\net6.0\MVC.Models.deps.json
+C:\Users\oguer\source\repos\AplicacionesNet\MVC.Models\bin\Debug\net6.0\MVC.Models.dll
+C:\Users\oguer\source\repos\AplicacionesNet\MVC.Models\bin\Debug\net6.0\MVC.Models.pdb
+C:\Users\oguer\source\repos\AplicacionesNet\MVC.Models\obj\Debug\net6.0\MVC.Models.csproj.AssemblyReference.cache
+C:\Users\oguer\source\repos\AplicacionesNet\MVC.Models\obj\Debug\net6.0\MVC.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oguer\source\repos\AplicacionesNet\MVC.Models\obj\Debug\net6.0\MVC.Models.AssemblyInfoInputs.cache
+C:\Users\oguer\source\repos\AplicacionesNet\MVC.Models\obj\Debug\net6.0\MVC.Models.AssemblyInfo.cs
+C:\Users\oguer\source\repos\AplicacionesNet\MVC.Models\obj\Debug\net6.0\MVC.Models.csproj.CoreCompileInputs.cache
+C:\Users\oguer\source\repos\AplicacionesNet\MVC.Models\obj\Debug\net6.0\MVC.Models.dll
+C:\Users\oguer\source\repos\AplicacionesNet\MVC.Models\obj\Debug\net6.0\refint\MVC.Models.dll
+C:\Users\oguer\source\repos\AplicacionesNet\MVC.Models\obj\Debug\net6.0\MVC.Models.pdb
+C:\Users\oguer\source\repos\AplicacionesNet\MVC.Models\obj\Debug\net6.0\ref\MVC.Models.dll
