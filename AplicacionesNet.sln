@@ -5,11 +5,15 @@ VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ASP_NET_CORE_MVC", "ASP_NET_CORE_MVC\ASP_NET_CORE_MVC.csproj", "{22C543D5-8526-470A-B58D-207A1CB2A183}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC.Models", "MVC.Models\MVC.Models.csproj", "{48D8785E-1CC5-4D47-B158-2CE5280BF30F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MVC.Models", "MVC.Models\MVC.Models.csproj", "{48D8785E-1CC5-4D47-B158-2CE5280BF30F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC.Services", "MVC.Services\MVC.Services.csproj", "{81986CF2-4B22-4F3B-ABA1-ACE0E7D54706}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MVC.Services", "MVC.Services\MVC.Services.csproj", "{81986CF2-4B22-4F3B-ABA1-ACE0E7D54706}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCoreWebApiMVC", "AspNetCoreWebApiMVC\AspNetCoreWebApiMVC.csproj", "{FAE44A4C-BEC9-41B7-A622-7FBBFCFD750B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspNetCoreWebApiMVC", "AspNetCoreWebApiMVC\AspNetCoreWebApiMVC.csproj", "{FAE44A4C-BEC9-41B7-A622-7FBBFCFD750B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "microservicios", "microservicios", "{5990DC7A-F09B-4FBA-B8D2-5AD592BE7A45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplicationAPI", "WebApplicationAPI\WebApplicationAPI.csproj", "{930B0C84-4DA6-4E13-B453-93FD39156D5A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,9 +37,16 @@ Global
 		{FAE44A4C-BEC9-41B7-A622-7FBBFCFD750B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FAE44A4C-BEC9-41B7-A622-7FBBFCFD750B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FAE44A4C-BEC9-41B7-A622-7FBBFCFD750B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{930B0C84-4DA6-4E13-B453-93FD39156D5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{930B0C84-4DA6-4E13-B453-93FD39156D5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{930B0C84-4DA6-4E13-B453-93FD39156D5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{930B0C84-4DA6-4E13-B453-93FD39156D5A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{930B0C84-4DA6-4E13-B453-93FD39156D5A} = {5990DC7A-F09B-4FBA-B8D2-5AD592BE7A45}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A583C258-6F89-4DC7-B16B-28D726C567C2}
