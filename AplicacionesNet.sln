@@ -19,7 +19,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "microservicios-imagenDocker
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyMicroservice", "MyMicroservice\MyMicroservice.csproj", "{84064D8A-BA57-4BDC-8839-0A4D1581C6C7}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "curso-microservicios", "curso-microservicios", "{7A012B72-D2B0-4A72-ACD3-A5D88E70D760}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "crud-APIWeb", "crud-APIWeb", "{7A012B72-D2B0-4A72-ACD3-A5D88E70D760}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Productos", "Productos\Productos.csproj", "{6A491170-6CD3-4C8D-A62F-CBB7D5E04E21}"
 EndProject

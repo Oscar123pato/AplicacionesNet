@@ -1,0 +1,17 @@
+C:\Users\oguer\source\repos\AplicacionesNet\Curso-Microservicios\src\Services\Catalog\Catalog.Persistence.Database\bin\Debug\net6.0\Catalog.Persistence.Database.deps.json
+C:\Users\oguer\source\repos\AplicacionesNet\Curso-Microservicios\src\Services\Catalog\Catalog.Persistence.Database\bin\Debug\net6.0\Catalog.Persistence.Database.dll
+C:\Users\oguer\source\repos\AplicacionesNet\Curso-Microservicios\src\Services\Catalog\Catalog.Persistence.Database\bin\Debug\net6.0\Catalog.Persistence.Database.pdb
+C:\Users\oguer\source\repos\AplicacionesNet\Curso-Microservicios\src\Services\Catalog\Catalog.Persistence.Database\bin\Debug\net6.0\Catalog.Domain.dll
+C:\Users\oguer\source\repos\AplicacionesNet\Curso-Microservicios\src\Services\Catalog\Catalog.Persistence.Database\bin\Debug\net6.0\Catalog.Domain.pdb
+C:\Users\oguer\source\repos\AplicacionesNet\Curso-Microservicios\src\Services\Catalog\Catalog.Persistence.Database\obj\Debug\net6.0\Catalog.Persistence.Database.csproj.AssemblyReference.cache
+C:\Users\oguer\source\repos\AplicacionesNet\Curso-Microservicios\src\Services\Catalog\Catalog.Persistence.Database\obj\Debug\net6.0\Catalog.Persistence.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oguer\source\repos\AplicacionesNet\Curso-Microservicios\src\Services\Catalog\Catalog.Persistence.Database\obj\Debug\net6.0\Catalog.Persistence.Database.AssemblyInfoInputs.cache
+C:\Users\oguer\source\repos\AplicacionesNet\Curso-Microservicios\src\Services\Catalog\Catalog.Persistence.Database\obj\Debug\net6.0\Catalog.Persistence.Database.AssemblyInfo.cs
+C:\Users\oguer\source\repos\AplicacionesNet\Curso-Microservicios\src\Services\Catalog\Catalog.Persistence.Database\obj\Debug\net6.0\Catalog.Persistence.Database.csproj.CoreCompileInputs.cache
+C:\Users\oguer\source\repos\AplicacionesNet\Curso-Microservicios\src\Services\Catalog\Catalog.Persistence.Database\obj\Debug\net6.0\Catalog.Persistence.Database.csproj.CopyComplete
+C:\Users\oguer\source\repos\AplicacionesNet\Curso-Microservicios\src\Services\Catalog\Catalog.Persistence.Database\obj\Debug\net6.0\Catalog.Persistence.Database.dll
+C:\Users\oguer\source\repos\AplicacionesNet\Curso-Microservicios\src\Services\Catalog\Catalog.Persistence.Database\obj\Debug\net6.0\refint\Catalog.Persistence.Database.dll
+C:\Users\oguer\source\repos\AplicacionesNet\Curso-Microservicios\src\Services\Catalog\Catalog.Persistence.Database\obj\Debug\net6.0\Catalog.Persistence.Database.pdb
+C:\Users\oguer\source\repos\AplicacionesNet\Curso-Microservicios\src\Services\Catalog\Catalog.Persistence.Database\obj\Debug\net6.0\ref\Catalog.Persistence.Database.dll
+C:\Users\oguer\source\repos\AplicacionesNet\Curso-Microservicios\src\Services\Catalog\Catalog.Persistence.Database\bin\Debug\net6.0\Catalog.Persistence.Database.runtimeconfig.json
+C:\Users\oguer\source\repos\AplicacionesNet\Curso-Microservicios\src\Services\Catalog\Catalog.Persistence.Database\obj\Debug\net6.0\Catalog.Persistence.Database.genruntimeconfig.cache
