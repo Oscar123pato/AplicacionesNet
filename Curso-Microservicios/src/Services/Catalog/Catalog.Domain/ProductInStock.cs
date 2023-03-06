@@ -10,8 +10,8 @@ namespace Catalog.Domain
 {
     public class ProductInStock
     {
-        [Key]
-        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+        //[Key]
+        //[DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int ProductInStockId { get; set; }
         public int ProductId { get; set; }
         public int Stock { get; set; }

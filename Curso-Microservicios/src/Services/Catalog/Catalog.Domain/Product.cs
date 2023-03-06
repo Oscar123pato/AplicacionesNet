@@ -10,13 +10,13 @@ namespace Catalog.Domain
 {
     public class Product
     {
-        [Key]
-        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+        //[Key]
+        //[DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int ProductId { get; set; }
         public string Name { get; set; }
         public string Description { get; set; }
         public decimal Price { get; set; }
-        [ForeignKey("ProductId")]
+       // [ForeignKey("ProductId")]
         public virtual ProductInStock Stock { get; set; }
 
     }

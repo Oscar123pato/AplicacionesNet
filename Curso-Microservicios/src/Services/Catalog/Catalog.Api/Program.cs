@@ -1,5 +1,9 @@
 using Catalog.Persistence.Database;
+using Catalog.Service.EventHandlers;
+using CatalogServiceQueries;
+using MediatR;
 using Microsoft.EntityFrameworkCore;
+using System.Reflection;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -17,6 +21,11 @@ builder.Services.AddDbContext<ApplicationDbContext>(opts =>
     x => x.MigrationsHistoryTable("__EFMigrationsHistory", "Catalog")
     );
 });
+//builder.Services.AddMediatR(typeof("Catalog.Service.EventHandlers").Assembly);
+builder.Services.AddMediatR(Assembly.Load("Catalog.Service.EventHandlers"));
+builder.Services.AddTransient<IProductQueryService, ProductQueryService>();
+
+
 
 
 var app = builder.Build();
